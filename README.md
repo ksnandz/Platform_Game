@@ -1,5 +1,7 @@
 # Platform_Game
 
+![](images/gameimage.png)
+
 ##### Bitmap Display Configuration:
 
 - Unit width in pixels: 8
