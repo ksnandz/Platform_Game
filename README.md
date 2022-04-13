@@ -1,7 +1,7 @@
 # Platform_Game
 
 
-![](images/gameimage.png)
+[](images/gameimage.png)
 
 ##### Bitmap Display Configuration:
 
